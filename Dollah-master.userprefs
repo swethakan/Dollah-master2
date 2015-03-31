@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EndGame.cs">
+    <Files>
+      <File FileName="Assets/CharacterPlayer/JumpNew.cs" Line="17" Column="26" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="185" Column="1" />
+      <File FileName="../../WalkingHomeSim/Assets/MoveWoman.js" Line="12" Column="22" />
+      <File FileName="Assets/EndGame.cs" Line="34" Column="40" />
+      <File FileName="Assets/Camera/camera-follow.js" Line="7" Column="1" />
+      <File FileName="../../Desktop/EndGame 1.cs" Line="34" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
